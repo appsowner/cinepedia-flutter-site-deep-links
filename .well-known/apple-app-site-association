@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "Z93ND956FV.com.appsowner.cinepedia",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
