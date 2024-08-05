@@ -1,10 +1,14 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.appsowner.cinepedia",
-      "sha256_cert_fingerprints":
-      ["27:7F:2F:4A:41:C1:1C:56:A0:3C:CE:E5:9D:77:06:3F:11:DC:9C:B6:55:5F:05:48:C5:DC:31:1F:46:5E:DB:28"]
+      "sha256_cert_fingerprints": [
+        "27:7F:2F:4A:41:C1:1C:56:A0:3C:CE:E5:9D:77:06:3F:11:DC:9C:B6:55:5F:05:48:C5:DC:31:1F:46:5E:DB:28"
+      ]
     }
-  }]
-  
+  }
+]
